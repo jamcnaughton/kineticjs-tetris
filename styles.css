@@ -29,6 +29,7 @@ a {
 #page {
   max-width: 480px;
   margin: 0 auto;
+  padding-top: 15px;
 }
 #page:before,
 #page:after {content: ""; display: table;}
